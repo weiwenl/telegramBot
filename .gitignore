@@ -1,0 +1,8 @@
+# Ignore .txt files
+*.txt
+
+# Ignore .session files
+*.session
+
+# Ignore .env files
+*.env
